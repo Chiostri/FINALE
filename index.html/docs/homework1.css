@@ -1,0 +1,48 @@
+
+p {
+    font-size: 20pt;
+    color: whitesmoke;
+    font-weight: bold;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 15px;
+    margin: 15px;
+    text-align:left;
+}
+
+li {
+    font-size: 20pt;
+    color: whitesmoke;
+    font-weight: bold;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 15px;
+    margin: 15px;
+    text-align:center;
+    list-style-type: none; /*removes dot from list*/
+}
+
+.p-center{
+    text-align:center;
+}
+
+ul {
+    background-color: rgba(209, 190, 139, 0.945);
+}
+
+
+.block{
+	margin: 200 200;
+}
+
+.index-block{
+    margin: 200 200;
+}
+
+h1{
+    text-align: center;
+    color:black;
+}
+.fa:hover {
+    opacity: 0.7;
+  }
+
+  
